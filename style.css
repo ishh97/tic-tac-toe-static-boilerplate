@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 body {
+    font-family: 'Fredoka One', cursive;
     background-color: dodgerblue;
     text-align: center;
 }
