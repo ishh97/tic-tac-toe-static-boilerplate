@@ -1,0 +1,25 @@
+body {
+    background-color: dodgerblue;
+    text-align: center;
+}
+h1 {
+    -webkit-text-stroke: 5px #ffffff;
+    font-size: 80px;
+    color: #FAB201;
+}
+.Tic {
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    grid-gap: 10px; 
+}
+.box {
+    background-color: white;
+    border-radius: 5px;
+}
+h3 {
+    color: white;
+    font-size: 30px;
+}
